@@ -1,0 +1,11 @@
+{
+  "org": "deepset-ai",
+  "repo": "haystack-home",
+  "versions": [
+    {
+      "commit": "f7981485e6b34e44243c45e744aeb91e6451b1ae",
+      "tag": "",
+      "parsed_at": "2026-11-08T10:49:08.099767+00:00"
+    }
+  ]
+}
